@@ -31,7 +31,7 @@ locals {
       cni_hash       = "1d9788b0f5420e1a219aad2cb8681823fc515e7c"
       cni_file_name  = "cni-0799f5732f2a11b329d9e3d51b9c8f2e3759f2ff.tar.gz"
       utils_hash     = "42b15a0a0a56531750bde3c7b08d0cf27c170c48"
-      protokube_hash = "1b972e92520b3cafd576893ae3daeafdd1bc9ffd"
+      protokube_hash = "0b1f26208f8f6cc02468368706d0236670fec8a2"
       ami_name       = "k8s-1.8-debian-jessie-amd64-hvm-ebs-2018-01-14"
       docker_version = "1.13.1"
     }
